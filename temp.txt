@@ -1,0 +1,102 @@
+D:\Atom\Python\School Python\Computing\Cannon Connect>Main.py
+4687.181537203436
+left
+(colour 0 parameter 2408.0, [colour 0 parameter 2318.0, colour 3 parameter 2498.0]) 0
+(colour 0 parameter 2318.0, [colour 0 parameter 2228.0, colour 0 parameter 2408.0]) 0
+(colour 0 parameter 2228.0, [colour 1 parameter 2138.0, colour 0 parameter 2318.0]) 0
+(colour 1 parameter 2048.0, [colour 1 parameter 1988.0, colour 1 parameter 2138.0]) 1
+(colour 0 parameter 1960.0, [colour 0 parameter 1870.0, colour 2 parameter 2050.0]) 0
+(colour 0 parameter 1870.0, [colour 0 parameter 1780.0, colour 0 parameter 1960.0]) 0
+(colour 3 parameter 2648.0, [colour 3 parameter 2498.0, colour 0 parameter 2601.7999999999993]) 3        
+(colour 0 parameter 1780.0, [colour 0 parameter 1690.0, colour 0 parameter 1870.0]) 0
+(colour 3 parameter 2691.7999999999993, [colour 0 parameter 2601.7999999999993, None]) 3
+(colour 0 parameter 1690.0, [colour 0 parameter 1600.0, colour 0 parameter 1780.0]) 0
+(colour 0 parameter 1600.0, [colour 0 parameter 1510.0, colour 0 parameter 1690.0]) 0
+(colour 1 parameter 2138.0, [colour 1 parameter 2048.0, colour 0 parameter 2228.0]) 1
+(colour 0 parameter 1510.0, [colour 1 parameter 1420.0, colour 0 parameter 1600.0]) 0
+(colour 2 parameter 2140.0, [colour 2 parameter 2050.0, None]) 2
+(colour 1 parameter 1420.0, [colour 0 parameter 1330.0, colour 0 parameter 1510.0]) 1
+(colour 0 parameter 1330.0, [colour 1 parameter 1240.0, colour 1 parameter 1420.0]) 0
+(colour 1 parameter 1240.0, [colour 0 parameter 1150.0, colour 0 parameter 1330.0]) 1
+(colour 2 parameter 2050.0, [colour 0 parameter 1960.0, colour 2 parameter 2140.0]) 2
+(colour 0 parameter 1150.0, [colour 0 parameter 1060.0, colour 1 parameter 1240.0]) 0
+(colour 0 parameter 1060.0, [colour 1 parameter 970.0, colour 0 parameter 1150.0]) 0
+(colour 1 parameter 970.0, [colour 0 parameter 880.0, colour 0 parameter 1060.0]) 1
+(colour 0 parameter 880.0, [colour 0 parameter 790.0, colour 1 parameter 970.0]) 0
+(colour 0 parameter 790.0, [colour 0 parameter 700.0, colour 0 parameter 880.0]) 0
+(colour 0 parameter 2601.7999999999993, [colour 3 parameter 2648.0, colour 3 parameter 2691.7999999999993
+]) 0
+(colour 0 parameter 700.0, [colour 0 parameter 610.0, colour 0 parameter 790.0]) 0
+(colour 0 parameter 610.0, [colour 0 parameter 520.0, colour 0 parameter 700.0]) 0
+(colour 0 parameter 520.0, [colour 1 parameter 430.0, colour 0 parameter 610.0]) 0
+(colour 3 parameter 2498.0, [colour 0 parameter 2408.0, colour 3 parameter 2648.0]) 3
+(colour 1 parameter 430.0, [colour 0 parameter 340.0, colour 0 parameter 520.0]) 1
+(colour 0 parameter 340.0, [colour 1 parameter 250.0, colour 1 parameter 430.0]) 0
+(colour 1 parameter 250.0, [colour 0 parameter 160.0, colour 0 parameter 340.0]) 1
+(colour 1 parameter 1988.0, [colour 2 parameter 2140.0, colour 1 parameter 2048.0]) 1
+(colour 0 parameter 160.0, [colour 1 parameter 70.0, colour 1 parameter 250.0]) 0
+(colour 1 parameter 70.0, [colour 0 parameter -20.0, colour 0 parameter 160.0]) 1
+(colour 0 parameter -20.0, [None, colour 1 parameter 70.0]) 0
+
+right
+(colour 0 parameter 2228.0, [None, colour 0 parameter 2318.0]) 0
+(colour 0 parameter 2318.0, [colour 0 parameter 2228.0, colour 0 parameter 2408.0]) 0
+(colour 0 parameter 2408.0, [colour 0 parameter 2318.0, None]) 0
+(colour 3 parameter 2498.0, [colour 0 parameter 2408.0, colour 3 parameter 2588.0]) 3
+(colour 3 parameter 2648.0, [colour 3 parameter 2588.0, colour 0 parameter 2601.7999999999993]) 3        
+(colour 0 parameter 2601.7999999999993, [colour 3 parameter 2648.0, colour 3 parameter 2691.7999999999993
+]) 0
+(colour 3 parameter 2691.7999999999993, [colour 0 parameter 2601.7999999999993, None]) 3
+(colour 3 parameter 2588.0, [colour 3 parameter 2498.0, colour 3 parameter 2648.0]) 3
+
+2230.0 [1586.24, 807.645] 0
+2320.0 [1600, 718.719] 0
+2410.0 [1600, 628.719] 0
+connect chunk1: Chunk: 0 0 0 3 3 0 3 3 to chunk2: Chunk: 0 3
+left
+(colour 0 parameter 2230.0, [colour 2 parameter 2146.0, colour 0 parameter 2320.0]) 0
+(colour 0 parameter 2320.0, [colour 0 parameter 2230.0, colour 0 parameter 2410.0]) 0
+(colour 0 parameter 2410.0, [colour 0 parameter 2320.0, None]) 0
+(colour 3 parameter 2498.0, [colour 0 parameter 2410.0, colour 3 parameter 2588.0]) 3
+(colour 3 parameter 2648.0, [colour 3 parameter 2588.0, colour 0 parameter 2477.539999999999]) 3
+(colour 0 parameter 2477.539999999999, [colour 3 parameter 2648.0, colour 3 parameter 2567.539999999999])
+ 0
+(colour 3 parameter 2567.539999999999, [colour 0 parameter 2477.539999999999, None]) 3
+(colour 3 parameter 2588.0, [colour 3 parameter 2498.0, colour 3 parameter 2648.0]) 3
+
+right
+(colour 0 parameter 2477.539999999999, [None, colour 3 parameter 2567.539999999999]) 0
+(colour 3 parameter 2567.539999999999, [colour 0 parameter 2477.539999999999, None]) 3
+
+2500.0 [1600, 538.719] 0
+2590.0 [1600, 448.719] 3
+connect chunk1: Chunk: 0 0 0 3 3 0 3 3 to chunk2: Chunk: 0 3
+left
+(colour 0 parameter 2230.0, [colour 2 parameter 2148.0, colour 0 parameter 2320.0]) 0
+(colour 0 parameter 2320.0, [colour 0 parameter 2230.0, colour 0 parameter 2410.0]) 0
+(colour 0 parameter 2410.0, [colour 0 parameter 2320.0, colour 0 parameter 2462.62]) 0
+(colour 3 parameter 2498.0, [colour 0 parameter 2410.0, colour 3 parameter 2588.0]) 3
+(colour 3 parameter 2648.0, [colour 3 parameter 2588.0, colour 0 parameter 2462.62]) 3
+(colour 0 parameter 2462.62, [colour 0 parameter 2410.0, colour 3 parameter 2552.62]) 0
+(colour 3 parameter 2552.62, [None, None]) 3
+(colour 3 parameter 2588.0, [colour 3 parameter 2498.0, colour 3 parameter 2648.0]) 3
+
+right
+(colour 0 parameter 2462.62, [colour 0 parameter 2410.0, colour 3 parameter 2552.62]) 0
+(colour 3 parameter 2552.62, [None, None]) 3
+
+2642.62 [1600, 396.099] 0
+Traceback (most recent call last):
+  File "D:\Atom\Python\School Python\Computing\Cannon Connect\Main.py", line 57, in <module>
+    main.loop()
+  File "D:\Atom\Python\School Python\Computing\Cannon Connect\Main.py", line 51, in loop
+    case 'game': self.game.loop(screen)
+  File "D:\Atom\Python\School Python\Computing\Cannon Connect\GameStates.py", line 201, in loop
+    self.update()
+  File "D:\Atom\Python\School Python\Computing\Cannon Connect\GameStates.py", line 205, in update        
+    self.path.update()
+  File "D:\Atom\Python\School Python\Computing\Cannon Connect\Classes.py", line 67, in update
+    self.connect(prev, current)
+  File "D:\Atom\Python\School Python\Computing\Cannon Connect\Classes.py", line 187, in connect
+    current.parameter = left.cannonballs[current][0].parameter+C.CANNONBALL_DIM
+AttributeError: 'NoneType' object has no attribute 'parameter'
